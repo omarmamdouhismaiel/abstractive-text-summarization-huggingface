@@ -75,6 +75,8 @@ Open the notebook in Jupyter or VS Code:
 jupyter notebook huggingface_abstractive_summarization.ipynb
 ```
 
+---
+
 ## Key Insights
 
 - High **BERTScore F1** values indicate strong semantic alignment between generated summaries and references.
